@@ -1,2 +1,3 @@
 Flask
 ginucorn
+pip install --upgrade pip
